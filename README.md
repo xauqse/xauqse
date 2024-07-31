@@ -14,7 +14,7 @@ Meraklı bir yazılım geliştiricisiyim ve React Native, Node.js ve MongoDB ile
 ## 📫 Bana Ulaşın
 
 
--[Twitter](https://x.com/xauqse)
+- [Twitter](https://x.com/xauqse)
 - [LinkedIn](https://www.linkedin.com/in/bahad%C4%B1r-terzi-a93357295/)
 
 
