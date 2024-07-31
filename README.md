@@ -6,21 +6,15 @@
 
 Meraklı bir yazılım geliştiricisiyim ve React Native, Node.js ve MongoDB ile projeler geliştiriyorum. 
 
-## 🚀 Öne Çıkan Projeler
-
-- **[Match Filter App](https://github.com/username/match-filter-app):** React Native ile geliştirilmiş maç verilerini filtreleyen ve sıralayan bir uygulama.
-- **[Node.js Starter Project](https://github.com/username/nodejs-starter-project):** Node.js ve MongoDB kullanarak başlangıç projeleri için bir şablon.
 
 ## 🛠️ Yetenekler
 
 - **Frontend:** React Native, JavaScript, MobX
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
 
 ## 📫 Bana Ulaşın
 
 - LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)
-- Twitter: [twitter.com/username](https://twitter.com/username)
+- Twitter: [twitter.com/username](https://x.com/xauqse)
 - Web Sitesi: [username.com](https://username.com)
 
 
