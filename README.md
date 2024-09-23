@@ -7,10 +7,6 @@
 Meraklı bir yazılım geliştiricisiyim ve React Native, Node.js ve MongoDB ile projeler geliştiriyorum. 
 
 
-## 🛠️ Yetenekler
-
-- **Frontend:** React Native, JavaScript
-
 ## 📫 Bana Ulaşın
 
 
