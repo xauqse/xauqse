@@ -2,7 +2,7 @@
 •● W E L C O M E - ON - M Y - P R O F I L E ●•                
 ═════════════ஜ۩۞۩ஜ════════════
 
-# Merhaba, Ben Bahadır Terzi!
+# Merhaba
 
 Meraklı bir yazılım geliştiricisiyim ve React Native, Node.js ve MongoDB ile projeler geliştiriyorum. 
 
