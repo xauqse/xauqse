@@ -1,5 +1,5 @@
 ═════════════ஜ۩۞۩ஜ════════════                     
-•● W E L C O M E - M Y - P R O F I L E ●•                
+•● W E L C O M E - ON - M Y - P R O F I L E ●•          
 ═════════════ஜ۩۞۩ஜ════════════
 
 # Merhaba
