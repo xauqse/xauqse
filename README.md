@@ -4,7 +4,7 @@
 
 # Merhaba
 
-Meraklı bir yazılım geliştiricisiyim ve React Native, Node.js ve MongoDB ile projeler geliştiriyorum. 
+Meraklı bir yazılım geliştiricisiyim ve React Native, Node.js, React, C# ve MongoDB ile projeler geliştiriyorum. 
 
 
 ## 📫 Bana Ulaşın
