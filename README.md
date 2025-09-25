@@ -45,7 +45,6 @@
 ### 📫 Let's Connect
 
 - 📩 Email: [bahadiremreterzi@icloud.com](mailto:hadiremreterzi@icloud.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bahad%C4%B1r-terzi-a93357295/)  
 <!--
 
 ---
