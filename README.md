@@ -1,9 +1,9 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,100:36BCF7&height=300&section=header&text=Bahadır&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Solutions%20|%20Stealth%20Mode%20Development&descAlignY=55&descAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,100:8A2BE2&height=300&section=header&text=Bahadır&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Solutions%20|%20Stealth%20Mode%20Development&descAlignY=55&descAlign=50&fontColor=ffffff)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=High-Performance+Mobile+Architecture;Enterprise-Grade+Web+Solutions;Confidential+Game+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=High-Performance+Mobile+Architecture;Enterprise-Grade+Web+Solutions;Confidential+Game+Design" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,7 +12,7 @@ _Specializing in the development of confidential, high-impact technologies._
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=xauqse&style=flat-square&color=blueviolet" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=xauqse&style=flat-square&color=8A2BE2" alt="Profile Views" />
 
 </div>
 
@@ -39,18 +39,6 @@ Experienced software engineer focused on building robust, scalable applications 
 
 ---
 
-### 📊 Contributions
-
-_As a developer primarily focused on confidential and internal projects, my public contribution graph does not reflect my full activity level._
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xauqse&layout=compact&theme=transparent&hide_border=true&count_private=true" height="160" alt="languages" />
-</div>
-
-<br/>
-
----
-
 ### 📫 Secure Contact
 
 <div align="center">
@@ -70,4 +58,4 @@ _As a developer primarily focused on confidential and internal projects, my publ
   <i>Innovating in silence.</i>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,100:36BCF7&height=100&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,100:8A2BE2&height=100&section=footer&animation=fadeIn)
