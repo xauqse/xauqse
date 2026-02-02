@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Bahadır 👋
-
-### Mobile Developer | Web Developer | Game Designer
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20Bahadır%20👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Mobile%20Dev%20|%20Web%20Dev%20|%20Game%20Designer&descAlignY=51&descAlign=50)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Mobile+Apps;Creating+Web+Experiences;Designing+Engaging+Games" alt="Typing SVG" />
@@ -11,6 +9,10 @@
 <br/>
 
 _Passionate about combining creativity and technology to deliver impactful projects._
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=xauqse&style=flat-square&color=blueviolet" alt="Profile Views" />
 
 </div>
 
@@ -21,7 +23,7 @@ _Passionate about combining creativity and technology to deliver impactful proje
 - 📱 **Mobile Development**: Expert in building cross-platform applications using **React Native** and **Expo**.
 - 💻 **Web Development**: Skilled in creating responsive and performant web apps with **React** and **Vue.js**.
 - 🎮 **Game Development**: Creative game designer and developer using **Unity (C#)**.
-- 🔧 **Backend & Tools**: Experienced with **Node.js**, **Express**, **MongoDB**, **Docker**, and **Linux**.
+- 🔧 **Backend & Tools**: Experienced with **Node.js**, **Express**, **MongoDB**, **PostgreSQL**, **Docker**, and **Linux**.
 
 ---
 
@@ -29,7 +31,7 @@ _Passionate about combining creativity and technology to deliver impactful proje
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,react,vue,nodejs,express,mongodb,unity,git,github,docker,linux,apple&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,react,vue,nodejs,express,mongodb,postgres,unity,git,github,docker,linux,apple,figma&perline=14" />
   </a>
 </div>
 
@@ -40,6 +42,10 @@ _Passionate about combining creativity and technology to deliver impactful proje
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xauqse&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xauqse&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=xauqse&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="streak stats" />
 </div>
 
 <br/>
@@ -70,3 +76,5 @@ _Passionate about combining creativity and technology to deliver impactful proje
 <div align="center">
   <i>Let's build something amazing together!</i>
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
