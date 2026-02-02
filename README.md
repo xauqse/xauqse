@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,100:8A2BE2&height=300&section=header&text=Bahadır&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Solutions%20|%20Stealth%20Mode%20Development&descAlignY=55&descAlign=50&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:4c1d95,100:d946ef&height=300&section=header&text=Bahadır&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Architecting%20Scalable%20Solutions%20|%20Stealth%20Mode%20Development&descAlignY=55&descAlign=50&fontColor=ffffff)
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=High-Performance+Mobile+Architecture;Enterprise-Grade+Web+Solutions;Confidential+Game+Design" alt="Typing SVG" />
@@ -58,4 +58,4 @@ Experienced software engineer focused on building robust, scalable applications 
   <i>Innovating in silence.</i>
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,100:8A2BE2&height=100&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:4c1d95,100:d946ef&height=100&section=footer&animation=fadeIn)
