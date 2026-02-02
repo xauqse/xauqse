@@ -56,6 +56,14 @@ Experienced software engineer focused on building robust, scalable applications 
 <br/>
 <div align="center">
   <i>Innovating in silence.</i>
+  <br/>
+  <sub>Selective collaboration • High-trust environments only</sub>
+</div>
+
+<br/>
+<br/>
+<div align="center">
+  <sub>Most meaningful work never reaches the public surface.</sub>
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3b0764,50:7e22ce,100:c084fc&stroke=7e22ce&strokeWidth=2)
