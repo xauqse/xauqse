@@ -39,25 +39,15 @@ Experienced software engineer focused on building robust, scalable applications 
 
 ---
 
-### 📊 Contributions & Analytics
+### 📊 Contributions
+
+_As a developer primarily focused on confidential and internal projects, my public contribution graph does not reflect my full activity level._
 
 <div align="center">
-  <!-- Note: Private contributions are enabled to reflect true activity levels -->
-  <img src="https://github-readme-stats.vercel.app/api?username=xauqse&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xauqse&layout=compact&theme=transparent&hide_border=true&count_private=true" height="180" alt="languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=xauqse&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xauqse&layout=compact&theme=transparent&hide_border=true&count_private=true" height="160" alt="languages" />
 </div>
 
 <br/>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xauqse&theme=transparent&no-frame=true&margin-w=15&margin-h=15" alt="trophy" />
-  </a>
-</div>
 
 ---
 
