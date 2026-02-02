@@ -5,7 +5,7 @@
 ### Mobile Developer | Web Developer | Game Designer
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Mobile+Apps;Creating+Web+Experiences;Designing+Engaging+Games" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Mobile+Apps;Creating+Web+Experiences;Designing+Engaging+Games" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,8 +38,8 @@ _Passionate about combining creativity and technology to deliver impactful proje
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xauqse&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xauqse&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xauqse&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xauqse&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
 </div>
 
 <br/>
@@ -59,7 +59,7 @@ _Passionate about combining creativity and technology to deliver impactful proje
 <a href="mailto:bahadiremreterzi@icloud.com">
   <img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Email" />
 </a>
-&nbsp;
+
 <a href="mailto:bahadiremreterzi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
