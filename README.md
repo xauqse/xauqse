@@ -33,7 +33,7 @@ Experienced software engineer focused on building robust, scalable applications 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,react,vue,nodejs,express,mongodb,postgres,unity,git,github,docker,linux,apple,figma&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,react,vue,css,nodejs,express,mongodb,postgres,unity,git,github,docker,nginx,linux,apple,windows,npm,visualstudio,figma,postman&perline=14&theme=dark" />
   </a>
 </div>
 
